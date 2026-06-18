@@ -1,6 +1,7 @@
 # IRISv3
 # Hello and welcome to IRISv3!!!
 This was a sort of passion project to me as a way for me to learn cad fundementals as well as try to try and build a competitive First Tech Challenge robot for this years game, Decode!
+Please note: My step file directory in theory was supposed to show all my files, but was unfortunately truncated to 1000 files out of 2446. Please let me know if you need the rest but the full assembly should be in my main directory.
 # IRISv1
 IRISv1 is the first cadded model of our robot, this was a group effort from my team (not submitted to stardance just a reference) and was very very jank robot and cad. With our team being mostly rookies, we had a lot of issues we had to tune and learn together from.
 
