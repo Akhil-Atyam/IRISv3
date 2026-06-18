@@ -47,9 +47,12 @@ This turret is driven by a 6k RPM GoBilda motor and powers 2 72mm Rhino wheels. 
 # Conclusion
 This project while only clocking 11 hours into wakatime was a cultivation of a good bit of work through multiple iterations. I hope you guys liked seeing this CAD model, and I really do hope that this is actually a viable design if any experience people see this. Shoutout to FIRST robotics, greatest moments of my life with this program. Thank all of you guys for taking the time to see this and hope you have a great day!
 
-Cad Link : https://cad.onshape.com/documents/06fbe5ed49f948d063feffdc/w/066c47fa9ac4b7611539e011/e/148f884616f1735568a81366?renderMode=0&uiState=6a3341bfd2cc085c33aab87a
+## Cad Link : 
 
-Robot photos:
+https://cad.onshape.com/documents/06fbe5ed49f948d063feffdc/w/066c47fa9ac4b7611539e011/e/148f884616f1735568a81366?renderMode=0&uiState=6a3341bfd2cc085c33aab87a
+
+## Robot photos:
+
 <img width="500" height="360" alt="image" src="https://github.com/user-attachments/assets/fa60f024-2bf9-4d81-9766-c41dd4b11848" />
 <img width="454" height="318" alt="image" src="https://github.com/user-attachments/assets/cd100543-bb52-455d-aca6-a0641362ab11" />
 <img width="450" height="326" alt="image" src="https://github.com/user-attachments/assets/b7f50864-01cc-486c-9efd-596d07a403a6" />
