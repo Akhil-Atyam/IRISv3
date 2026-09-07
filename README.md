@@ -37,26 +37,22 @@ I used REV drivetrain wheels and 72mm GoBilda gecko wheels in order to get as mu
 ## Magazine
 Now for the magazine, as much as its important to intake balls fast, sending them into our turret fast was as important, and was one of the downfalls of IRISv1. 
 
-<img width="589" height="356" alt="image" src="https://github.com/user-attachments/assets/77076190-7a60-48fc-be82-0a580f5ce10f" />
+<img width="545" height="372" alt="image" src="https://github.com/user-attachments/assets/8d266345-3a94-49d4-9917-6be735241f14" />
 
 Since we already used a 1620RPM motor for our intake, I decided to just belt everything together. Originally, I planned on just having 3 stages of rollers (our intake, stage 1, and stage 2), like my previous designs, but I soon found that this would not work due to the geometry of the ramp. I used rubber bands for this design (not pictured due to limitations in CAD) because we have found in our tests that it works best as the grip we get is hard to get with other methods and also we get more than one point of contact So I decided to try and make a counter roller in the back, this way I can easily and reliably launch up artifacts into the shooter. I slowly made the size of my cogs smaller that way speeds slowed down, and it was more controllable the farther up it is.
 ## Shooter
 Finally, the biggest change from IRISv1, a turret!
 
-<img width="364" height="304" alt="image" src="https://github.com/user-attachments/assets/a37ed61b-cb50-4ab0-a142-594de8ae3134" />
+<img width="401" height="335" alt="image" src="https://github.com/user-attachments/assets/5af6b4ca-ea27-43d0-8f91-fc146036183d" />
 
-This turret is driven by a 6k RPM GoBilda motor and powers 2 72mm Rhino wheels. We have it motor driven with a ratio of about 3.6 turret rotations to motor rotations which gives us quick control over it. To find out where we should aim, we have a limelight built into the front of the turret. The plan is for this to be adjustable rpm, but I soon plan to add an adjustable hood to this, and maybe a second motor.
+This turret is driven by a 6k RPM GoBilda motor and powers 2 72mm Rhino wheels. We have it motor driven with a ratio of about 3.6 turret rotations to motor rotations which gives us quick control over it. To find out where we should aim, we have a limelight built into the front of the turret. Ship #2 Update: We have an adjustable hood! This means we no longer have to do expensive RPM changes and we can just adjust our shooting angle.
 # Conclusion
-This project while only clocking 11 hours into wakatime was a cultivation of a good bit of work through multiple iterations. I hope you guys liked seeing this CAD model, and I really do hope that this is actually a viable design if any experience people see this. Shoutout to FIRST robotics, greatest moments of my life with this program. Thank all of you guys for taking the time to see this and hope you have a great day!
+This project while only clocking ~27 hours into wakatime was a cultivation of a good bit of work through multiple iterations. I hope you guys liked seeing this CAD model, and I really do hope that this is actually a viable design if any experience people see this. Shoutout to FIRST robotics, greatest moments of my life with this program. Thank all of you guys for taking the time to see this and hope you have a great day!
 
 ## Cad Link : 
 
 https://cad.onshape.com/documents/06fbe5ed49f948d063feffdc/w/066c47fa9ac4b7611539e011/e/148f884616f1735568a81366?renderMode=0&uiState=6a3341bfd2cc085c33aab87a
 
 ## Robot photos:
-
-<img width="500" height="360" alt="image" src="https://github.com/user-attachments/assets/fa60f024-2bf9-4d81-9766-c41dd4b11848" />
-<img width="454" height="318" alt="image" src="https://github.com/user-attachments/assets/cd100543-bb52-455d-aca6-a0641362ab11" />
-<img width="450" height="326" alt="image" src="https://github.com/user-attachments/assets/b7f50864-01cc-486c-9efd-596d07a403a6" />
 
 
