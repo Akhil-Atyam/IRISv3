@@ -1,4 +1,4 @@
-# IRISv3
+<img width="551" height="401" alt="image" src="https://github.com/user-attachments/assets/0ddc2ee0-f33d-4982-b666-fe387fa18679" /># IRISv3
 DISCLAMER: This project is not a competition robot!!! This robot was never designed to compete or be demonstrated in any way shape or form at any FIRST event. This is simply a proof of concept and practice for my cad skills.
 # Hello and welcome to IRISv3!!!
 This was a sort of passion project to me as a way for me to learn cad fundementals as well as try to try and build a competitive First Tech Challenge robot for this years game, Decode!
@@ -17,7 +17,7 @@ IRISv2 is a hypothetical version of our robot that still primarily relies on 3d 
 This was definetly an improvement but still, it lacked in some areas. Our intaking area wasnt much bigger, and that was one of the downfalls of our robot at the time. We could shoot accurately and shoot far, but we always had to chase artifacts as our intake was also quite slow. Using commercial parts had a major issue that I couldnt customize everything on the fly, and one minor change would require me to change all my mates so that our magazine could work well.
 Learning from my issues here, we move onto IRISv3
 # IRISv3
-This was no easy feat for me, it took 11 hours of learning how to cad, figuring out new tools, and thinking, would this work in reality? Lo and behold, I present IRISv3
+This was no easy feat for me, it took ~27 hours of learning how to cad, figuring out new tools, and thinking, would this work in reality? Lo and behold, I present IRISv3
 
 <img width="398" height="356" alt="image" src="https://github.com/user-attachments/assets/ea016593-3d43-4566-a4fd-ed8d4f4febb0" />
 
@@ -46,6 +46,11 @@ Finally, the biggest change from IRISv1, a turret!
 <img width="401" height="335" alt="image" src="https://github.com/user-attachments/assets/5af6b4ca-ea27-43d0-8f91-fc146036183d" />
 
 This turret is driven by a 6k RPM GoBilda motor and powers 2 72mm Rhino wheels. We have it motor driven with a ratio of about 3.6 turret rotations to motor rotations which gives us quick control over it. To find out where we should aim, we have a limelight built into the front of the turret. Ship #2 Update: We have an adjustable hood! This means we no longer have to do expensive RPM changes and we can just adjust our shooting angle.
+
+# What is new in ship 2?
+Well, that rhymed.
+Anyways, there have been a multitude of changes in ship #2, and some optimization. First major thing is the addition of a parking mechanism, which flips out a bellypan to let another bot park. We also now have an adjustable hood, allowing us to change our shot angles much faster. Our plates have also been considerably thickened, hopefully wont collapse like a pancake. I also optimized a couple things, added rubber bands, and did some rendering! Hope you enjoyed!
+
 # Conclusion
 This project while only clocking ~27 hours into wakatime was a cultivation of a good bit of work through multiple iterations. I hope you guys liked seeing this CAD model, and I really do hope that this is actually a viable design if any experience people see this. Shoutout to FIRST robotics, greatest moments of my life with this program. Thank all of you guys for taking the time to see this and hope you have a great day!
 
@@ -55,4 +60,8 @@ https://cad.onshape.com/documents/06fbe5ed49f948d063feffdc/w/066c47fa9ac4b761153
 
 ## Robot photos:
 
+<img width="437" height="361" alt="image" src="https://github.com/user-attachments/assets/3ed9073e-9822-439e-984d-da607be89304" />
+<img width="500" height="388" alt="image" src="https://github.com/user-attachments/assets/5e672ccd-13eb-452c-a57f-53d9f12365d7" />
+<img width="551" height="401" alt="image" src="https://github.com/user-attachments/assets/f4a68ecd-b843-4d03-94b2-3b0f9dc412e5" />
+<img width="588" height="383" alt="image" src="https://github.com/user-attachments/assets/b3854ec0-e70d-4e0a-a3b4-ffd9cb86ec05" />
 
