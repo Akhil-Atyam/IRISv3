@@ -1,5 +1,7 @@
 # IRISv3
 DISCLAMER: This project is not a competition robot!!! This robot was never designed to compete or be demonstrated in any way shape or form at any FIRST event. This is simply a proof of concept and practice for my cad skills.
+DISCLAMER pt2: Reviewers and everyone else interested in cad. My cad is fat, its 300 mb if you want each and every file. If you want all files, use the .rar. If you just want main cad, use .7z. thanks 
+
 # Hello and welcome to IRISv3!!!
 This was a sort of passion project to me as a way for me to learn cad fundementals as well as try to try and build a competitive First Tech Challenge robot for this years game, Decode!
 Please note: My step file directory in theory was supposed to show all my files, but was unfortunately truncated to 1000 files out of 2446. Please let me know if you need the rest but the full assembly should be in my main directory.
